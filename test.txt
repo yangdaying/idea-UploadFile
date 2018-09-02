@@ -5,3 +5,4 @@ String a ="my";
 System.out.println("a ' s value is = "+a)
 }
 
+why we are always angry to others 
