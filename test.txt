@@ -4,4 +4,4 @@ public static void main (String[] args){
 String a ="my"; 
 System.out.println("a ' s value is = "+a)
 }
-add some words
+
